@@ -1,0 +1,101 @@
+[
+  {
+    "id": "launch-omni",
+    "title": "Омниканальный запуск продукта",
+    "outcome": "+34% к узнаваемости за 8 недель",
+    "industry": "FMCG",
+    "services": ["strategy", "creative", "atl", "smm"],
+    "heroImage": "https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&w=1400&q=80",
+    "challenge": "Вывести новый SKU на насыщенный рынок с ограниченным бюджетом на первую фазу.",
+    "approach": "Единая big idea в TV и соцсетях, упрощённый визуальный код для быстрого узнавания.",
+    "result": "Рост aided awareness и стабильный трафик на промо-лендинг.",
+    "gallery": [
+      "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1000&q=80"
+    ]
+  },
+  {
+    "id": "b2b-lead",
+    "title": "B2B-воронка для IT-сервиса",
+    "outcome": "Качество лидов выросло на 28%",
+    "industry": "B2B",
+    "services": ["pr", "creative", "design"],
+    "heroImage": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=1400&q=80",
+    "challenge": "Слабое доверие к новому игроку на фоне глобальных вендоров.",
+    "approach": "Пакет whitepaper + PR в отраслевых медиа + лендинг под сегменты.",
+    "result": "Ниже стоимость квалифицированного лида при том же медиабюджете.",
+    "gallery": [
+      "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=1000&q=80"
+    ]
+  },
+  {
+    "id": "ooh-citywave",
+    "title": "OOH и digital в городской среде",
+    "outcome": "Рост recall креатива в целевых районах на 41%",
+    "industry": "Retail",
+    "services": ["ooh", "creative", "design", "smm"],
+    "heroImage": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1400&q=80",
+    "challenge": "Пробить информационный шум в мегаполисе и связать offline-носители с digital-активацией.",
+    "approach": "Карта размещений по аудитории, единый визуальный код на билбордах и в соцсетях, геотаргет в поддержку OOH.",
+    "result": "Измеримый рост узнаваемости креатива и рост трафика в промо-период.",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1000&q=80"
+    ]
+  },
+  {
+    "id": "event-product-x",
+    "title": "Запуск продукта: ивент + контент",
+    "outcome": "Полный зал и 2,4M охватов в digital за неделю",
+    "industry": "Tech",
+    "services": ["event", "creative", "smm", "pr"],
+    "heroImage": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&w=1400&q=80",
+    "challenge": "Собрать ключевых партнёров и прессу и одновременно вывести историю в онлайн без «провала» после ивента.",
+    "approach": "Сценография и сценарий презентации, live-контент для соцсетей, PR-пакет для отраслевых медиа.",
+    "result": "Упоминания в СМИ, стабильная вовлечённость в соцсетях в течение двух недель после события.",
+    "gallery": [
+      "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?auto=format&fit=crop&w=1000&q=80"
+    ]
+  },
+  {
+    "id": "brand-system-refresh",
+    "title": "Ребрендинг и дизайн-система",
+    "outcome": "Единый визуальный язык на 40+ носителях",
+    "industry": "Services",
+    "services": ["brand_id", "design", "strategy", "creative"],
+    "heroImage": "https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&w=1400&q=80",
+    "challenge": "Устаревшая айдентика не отражала масштаб бизнеса и тормозила digital-экспансию.",
+    "approach": "Исследование восприятия, новая платформа бренда, гайдлайны, шаблоны для маркетинга и HR.",
+    "result": "Сокращение времени на производство макетов и согласованный образ во всех точках контакта.",
+    "gallery": [
+      "https://images.unsplash.com/photo-1561070791-2526d30994b5?auto=format&fit=crop&w=1000&q=80"
+    ]
+  },
+  {
+    "id": "smm-community-build",
+    "title": "SMM: сообщество и контент-рутина",
+    "outcome": "+62% к вовлечённости за квартал",
+    "industry": "E-com",
+    "services": ["smm", "creative", "design"],
+    "heroImage": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?auto=format&fit=crop&w=1400&q=80",
+    "challenge": "Низкая активность в соцсетях при росте конкуренции в нише и жёстких правилах площадок.",
+    "approach": "Контент-стратегия по воронке, рубрикатор, продакшн визуалов, работа с UGC и промо-механиками.",
+    "result": "Рост ER и стабильный поток обращений из органического трафика соцсетей.",
+    "gallery": [
+      "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=1000&q=80"
+    ]
+  },
+  {
+    "id": "pr-media-launch",
+    "title": "PR: выход на федеральную повестку",
+    "outcome": "120+ публикаций за кампанию",
+    "industry": "Finance",
+    "services": ["pr", "strategy", "creative"],
+    "heroImage": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1400&q=80",
+    "challenge": "Новый продукт на рынке без узнаваемости бренда и доверия со стороны регуляторной тематики.",
+    "approach": "Позиционирование для СМИ, спикер-пул, релизы и экспертные колонки, синхронизация с digital-каналами.",
+    "result": "Охваты в целевых изданиях и рост запросов на консультации после пика кампании.",
+    "gallery": [
+      "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=1000&q=80"
+    ]
+  }
+]

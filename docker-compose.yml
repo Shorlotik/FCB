@@ -1,0 +1,14 @@
+services:
+  fcb-web:
+    build:
+      context: ./fcb-web
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+      # Опционально для писем через Resend (не коммить секреты):
+      # - RESEND_API_KEY=
+      # - FCB_RESEND_FROM=
+      # - FCB_LEAD_NOTIFY_EMAIL=
+      # - FCB_HR_NOTIFY_EMAIL=

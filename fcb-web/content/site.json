@@ -1,0 +1,124 @@
+{
+  "name": "FCBMINSK",
+  "tagline": "Рекламное агентство полного цикла",
+  "url": "https://fcb.by",
+  "phone": "+375 (17) 224 22 17",
+  "address": {
+    "street": "пер. Козлова, 25, корп. 1, помещение 22, 7 этаж, БЦ Forum Plaza",
+    "city": "Минск",
+    "postalCode": "220029",
+    "country": "BY"
+  },
+  "geo": {
+    "lat": 53.9041,
+    "lon": 27.6065
+  },
+  "emails": {
+    "info": "info@fcb.by",
+    "hr": "hr@fcb.by"
+  },
+  "neverFinished": "Мы верим в процесс: стратегия, креатив и продакшн — это цикл, который не заканчивается релизом. Каждая итерация делает бренд точнее, смелее и ближе к людям. Never finished — не слоган, а способ работы.",
+  "aboutLead": "FCBMINSK — команда стратегов, креаторов и продюсеров. 30 лет помогаем брендам находить голос и расти на рынке Беларуси и за его пределами.",
+  "stats": [
+    { "label": "лет успешной работы", "value": "30" },
+    { "label": "профессионалов в команде", "value": "80" },
+    { "label": "креативных проектов", "value": "500+" }
+  ],
+  "clients": [
+    {
+      "id": "c1",
+      "name": "Streamline",
+      "segment": "Логистика · B2B",
+      "summary": "Коммуникации для B2B-аудитории: креатив под отраслевые сегменты, digital-активации и поддержка репутационных инициатив.",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1400&q=80",
+      "imageAlt": "Команда и совместная работа над проектом"
+    },
+    {
+      "id": "c2",
+      "name": "Coca-Cola",
+      "segment": "FMCG · массовый рынок",
+      "summary": "Сезонные и постоянные кампании: охватные форматы, креатив под полку и digital, измеримые метрики вовлечения.",
+      "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1400&q=80",
+      "imageAlt": "Торговый зал и продуктовые категории FMCG"
+    },
+    {
+      "id": "c3",
+      "name": "emall.by",
+      "segment": "E-commerce · digital",
+      "summary": "Продвижение маркетплейса: performance, контент и визуальные системы для ключевых распродаж и брендовых зон на площадке.",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=1400&q=80",
+      "imageAlt": "Онлайн-покупки и безопасные платежи"
+    },
+    {
+      "id": "c4",
+      "name": "FONBET",
+      "segment": "Спорт · digital",
+      "summary": "Интеграции в спортивную повестку: креатив под трансляции и события, контент для digital-каналов и активации у аудитории болельщиков.",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1400&q=80",
+      "imageAlt": "Атмосфера спортивного события и трибуны"
+    },
+    {
+      "id": "c5",
+      "name": "NVV",
+      "segment": "Корпорации · комплекс",
+      "summary": "Стратегия и реализация для крупного бизнеса: от исследований и позиционирования до креатива и сопровождения кампаний.",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=1400&q=80",
+      "imageAlt": "Стратегическая сессия и работа с данными"
+    }
+  ],
+  "partners": [
+    {
+      "id": "p1",
+      "name": "Медиахолдинги",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1400&q=80",
+      "imageAlt": "Медиа и новости — партнёрство с холдингами"
+    },
+    {
+      "id": "p2",
+      "name": "Digital-платформы",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1400&q=80",
+      "imageAlt": "Digital и технологические платформы"
+    },
+    {
+      "id": "p3",
+      "name": "Продакшн-студии",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&w=1400&q=80",
+      "imageAlt": "Продакшн и производство контента"
+    }
+  ],
+  "contactGroups": [
+    {
+      "id": "media",
+      "title": "Для СМИ и партнёров",
+      "people": [
+        {
+          "name": "Анна Тимощенко",
+          "role": "PR Director",
+          "email": "pr@fcb.by"
+        }
+      ]
+    },
+    {
+      "id": "hr",
+      "title": "Работа в FCBMINSK",
+      "people": [
+        {
+          "name": "Елизавета Навроцкая",
+          "role": "Рекрутер",
+          "email": "hr@fcb.by"
+        }
+      ]
+    },
+    {
+      "id": "biz",
+      "title": "Для клиентов",
+      "people": [
+        {
+          "name": "Роман Болонников",
+          "role": "New Business Director",
+          "email": "rbolonnikov@fcb.by"
+        }
+      ]
+    }
+  ]
+}
